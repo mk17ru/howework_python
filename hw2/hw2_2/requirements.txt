@@ -1,0 +1,2 @@
+pdflatex
+https://pypi.anaconda.org/mk17ru/simple table-generator

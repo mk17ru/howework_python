@@ -1,0 +1,5 @@
+Method			Time (seconds)
+---------------------------------
+Synchronous		0.717414
+With Threads		3.946641
+With Processes		0.612657

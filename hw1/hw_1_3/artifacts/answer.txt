@@ -1,0 +1,8 @@
+mk17ru@107508051 hw_1_3 % python3 main.py artifacts/input.txt artifacts/input2.txt
+    14      23      87 artifacts/input.txt
+    21      46      178 artifacts/input2.txt
+    35      69      265 total
+mk17ru@107508051 hw_1_3 % wc artifacts/input.txt artifacts/input2.txt
+    14      23      87 artifacts/input.txt
+    21      46     178 artifacts/input2.txt
+    35      69     265 total
